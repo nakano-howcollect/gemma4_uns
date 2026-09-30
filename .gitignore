@@ -1,0 +1,13 @@
+models/
+__pycache__/
+*.log
+*.py[cod]
+.venv/
+venv/
+.env
+.env.*
+!.env.example
+.DS_Store
+*.gguf
+*.gguf.part
+prompt/
